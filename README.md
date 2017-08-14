@@ -1,1 +1,2 @@
-# map-to-ask
+# to run this project
+download it  then open mapidex in your browser
